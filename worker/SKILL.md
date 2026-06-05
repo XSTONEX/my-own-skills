@@ -1,6 +1,8 @@
 ---
 name: worker
 description: "[OMX] Team worker protocol (ACK, mailbox, task lifecycle) for tmux-based OMX teams"
+metadata:
+  targets: [codex]
 ---
 
 # Worker Skill

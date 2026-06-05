@@ -1,6 +1,8 @@
 ---
 name: ralplan
 description: "[OMX] Alias for $plan --consensus"
+metadata:
+  targets: [codex]
 ---
 
 # Ralplan (Consensus Planning Alias)

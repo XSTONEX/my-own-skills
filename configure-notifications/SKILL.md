@@ -20,6 +20,8 @@ triggers:
   - "discord webhook"
   - "telegram bot"
   - "slack webhook"
+metadata:
+  targets: [codex]
 ---
 
 # Configure OMX Notifications

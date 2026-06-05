@@ -1,6 +1,8 @@
 ---
 name: pipeline
 description: "[OMX] Configurable pipeline orchestrator for sequencing stages"
+metadata:
+  targets: [codex]
 ---
 
 # Pipeline Skill

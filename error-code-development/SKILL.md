@@ -1,6 +1,8 @@
 ---
 name: error-code-development
 description: Use when adding, changing, or reviewing error codes in this repository, especially in common/errors/error_code_base.py, common/errors/error_code_ranges.py, api_server/errors/*_errors.py, api_server/errors/error_codes.py, or the related tests.
+metadata:
+  targets: [claude]
 ---
 
 # Error Code Development

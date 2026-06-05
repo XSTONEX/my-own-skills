@@ -1,6 +1,8 @@
 ---
 name: ielts-reading-synonym-lark
 description: Use when the user asks to summarize IELTS Reading synonym substitutions, IELTS reading vocabulary replacement tables, or append a new reading passage's synonym table into the user's Lark/Feishu project document. The workflow creates an incremental Part/reading section, preserves a fixed four-column table format, centers all cells, highlights high-frequency IELTS words in light red, and summarizes repeated vocabulary patterns across previous readings.
+metadata:
+  targets: [codex]
 ---
 
 # IELTS Reading Synonym Lark

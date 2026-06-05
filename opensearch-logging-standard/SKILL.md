@@ -1,6 +1,8 @@
 ---
 name: opensearch-logging-standard
 description: Enforce OpenSearch-compatible logging standards when writing or modifying code. Use when the user asks to write new features, fix bugs, add endpoints, refactor logic, or any task that involves writing or modifying application code. Ensures all logs use state.log with only info/error levels, includes proactive diagnostic logging, and follows the project-specific formatting conventions.
+metadata:
+  targets: [codex]
 ---
 
 # OpenSearch Logging Standard

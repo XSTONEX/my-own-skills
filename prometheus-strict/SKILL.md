@@ -2,6 +2,8 @@
 name: prometheus-strict
 description: "[OMX] Clean-room interview-driven planner: Metis clarifies, Momus challenges, Oracle synthesizes, then hands off to $ultragoal/$team."
 argument-hint: "<goal or problem statement>"
+metadata:
+  targets: [codex]
 ---
 
 # Prometheus Strict

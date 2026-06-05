@@ -2,6 +2,8 @@
 name: deep-interview
 description: "[OMX] Socratic deep interview with mathematical ambiguity gating before execution"
 argument-hint: "[--quick|--standard|--deep] [--autoresearch] <idea or vague description>"
+metadata:
+  targets: [codex]
 ---
 
 <Purpose>

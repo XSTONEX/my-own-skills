@@ -2,6 +2,8 @@
 name: skill
 description: "[OMX] Manage local skills - list, add, remove, search, edit, setup wizard"
 argument-hint: "<command> [args]"
+metadata:
+  targets: [codex]
 ---
 
 # Skill Management CLI

@@ -1,6 +1,8 @@
 ---
 name: doctor
 description: "[OMX] Diagnose and fix oh-my-codex installation issues"
+metadata:
+  targets: [codex]
 ---
 
 # Doctor Skill

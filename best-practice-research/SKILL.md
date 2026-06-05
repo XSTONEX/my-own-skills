@@ -2,6 +2,8 @@
 name: best-practice-research
 description: "[OMX] Bounded best-practice research wrapper using official/upstream evidence first"
 argument-hint: "<technology|decision|practice question>"
+metadata:
+  targets: [codex]
 ---
 
 # Best-Practice Research

@@ -1,6 +1,8 @@
 ---
 name: team
 description: "[OMX] N coordinated agents on shared task list using tmux-based orchestration"
+metadata:
+  targets: [codex]
 ---
 
 # Team Skill

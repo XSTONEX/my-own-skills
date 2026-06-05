@@ -1,6 +1,8 @@
 ---
 name: autopilot
 description: "[OMX] Strict autonomous loop: $deep-interview -> $ralplan -> $ultragoal (+ $team if needed) -> $code-review -> $ultraqa"
+metadata:
+  targets: [codex]
 ---
 
 <Purpose>

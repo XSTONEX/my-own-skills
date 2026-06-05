@@ -1,6 +1,8 @@
 ---
 name: lark-doc-format-writer
 description: Use when creating or rewriting Feishu/Lark documents where the user wants polished formatting, richer Docx blocks, layout optimization, readable structure, or format-aware document writing
+metadata:
+  targets: [codex]
 ---
 
 # Lark Doc Format Writer

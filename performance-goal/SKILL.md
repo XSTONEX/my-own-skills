@@ -1,6 +1,8 @@
 ---
 name: performance-goal
 description: "[OMX] Run an evaluator-gated performance optimization workflow over Codex goal mode with durable OMX artifacts and safe goal handoffs."
+metadata:
+  targets: [codex]
 ---
 
 # Performance Goal Workflow

@@ -1,6 +1,8 @@
 ---
 name: ask
 description: "[OMX] Ask a local external advisor CLI (Claude or Gemini) and capture a reusable artifact"
+metadata:
+  targets: [codex]
 ---
 
 # Ask (Local Advisor CLI)

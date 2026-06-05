@@ -1,6 +1,8 @@
 ---
 name: write-unit-tests
 description: Automatically write and improve co-located Python unit tests following strict architectural conventions. Use when the user provides a source file path and wants unit tests generated, or asks to add/fix/improve unit tests for a Python module.
+metadata:
+  targets: [codex]
 ---
 
 # Write Unit Tests

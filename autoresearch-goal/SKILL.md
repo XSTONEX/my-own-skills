@@ -1,6 +1,8 @@
 ---
 name: autoresearch-goal
 description: "[OMX] Durable professor-critic research workflow over Codex goal mode without reviving deprecated omx autoresearch"
+metadata:
+  targets: [codex]
 ---
 
 # Autoresearch Goal

@@ -1,6 +1,8 @@
 ---
 name: ielts-reading-analysis-kami
 description: Use when the user gives an IELTS Reading passage and questions, asks for IELTS reading analysis, 雅思阅读解析, 阅读答案解析, 按 task1/task2/task3 分析, or wants the final analysis saved as Markdown and HTML. The skill first applies the user's Task 1 global scan, then Task 2 question-type reasoning, then outputs each question only in the Task 3 format and saves polished .md and .html analysis documents.
+metadata:
+  targets: [codex]
 ---
 
 # IELTS Reading Analysis Markdown + HTML

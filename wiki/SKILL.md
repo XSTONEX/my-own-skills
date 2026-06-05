@@ -2,6 +2,8 @@
 name: wiki
 description: "[OMX] Persistent markdown project wiki stored under repository omx_wiki with keyword search and lifecycle capture"
 triggers: ["wiki add", "wiki lint", "wiki query", "wiki read", "wiki delete"]
+metadata:
+  targets: [codex]
 ---
 
 # Wiki

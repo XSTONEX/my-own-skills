@@ -1,6 +1,8 @@
 ---
 name: visual-ralph
 description: "[OMX] Visual Ralph orchestration for frontend UI from generated references, static references, or live URL targets, using $ralph with built-in visual verdict and pixel-diff evidence until the implementation matches and leaves a reproducible design system."
+metadata:
+  targets: [codex]
 ---
 
 # Visual Ralph Skill

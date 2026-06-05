@@ -3,6 +3,8 @@ name: "hud"
 description: "[OMX] Show or configure the OMX HUD (two-layer statusline)"
 role: "display"
 scope: ".omx/**"
+metadata:
+  targets: [codex]
 ---
 
 # HUD Skill

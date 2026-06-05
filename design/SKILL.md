@@ -1,6 +1,8 @@
 ---
 name: design
 description: "[OMX] Canonical repo-local DESIGN.md workflow for product, UI/UX, and frontend decision source of truth"
+metadata:
+  targets: [codex]
 ---
 
 # Design Skill

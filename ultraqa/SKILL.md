@@ -1,6 +1,8 @@
 ---
 name: ultraqa
 description: "[OMX] Adversarial dynamic e2e QA workflow - generate hostile scenarios, test, verify, fix, report, and clean up"
+metadata:
+  targets: [codex]
 ---
 
 # UltraQA Skill

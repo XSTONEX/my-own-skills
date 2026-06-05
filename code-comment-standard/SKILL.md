@@ -1,6 +1,8 @@
 ---
 name: code-comment-standard
 description: Use when writing, rewriting, or reviewing code comments, docstrings, or comment style guides, especially when the user wants Chinese comments, function-level and block-level comment rules, punctuation constraints, explicit subject, plain-language wording, or TODO/FIXME conventions
+metadata:
+  targets: [codex]
 ---
 
 # Code Comment Standard

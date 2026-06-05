@@ -1,6 +1,8 @@
 ---
 name: plan
 description: "[OMX] Strategic planning with optional interview workflow"
+metadata:
+  targets: [codex]
 ---
 
 <Purpose>

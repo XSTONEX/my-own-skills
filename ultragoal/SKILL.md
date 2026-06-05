@@ -1,6 +1,8 @@
 ---
 name: ultragoal
 description: "[OMX] Create and execute durable repo-native multi-goal plans over Codex goal mode artifacts."
+metadata:
+  targets: [codex]
 ---
 
 # Ultragoal Workflow

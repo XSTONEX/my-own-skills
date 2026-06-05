@@ -1,6 +1,8 @@
 ---
 name: code-review
 description: "[OMX] Run a comprehensive code review"
+metadata:
+  targets: [codex]
 ---
 
 # Code Review Skill
