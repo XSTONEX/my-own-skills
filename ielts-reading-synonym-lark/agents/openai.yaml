@@ -1,0 +1,6 @@
+interface:
+  display_name: "IELTS Reading Synonym Lark"
+  short_description: "整理雅思阅读同义替换到飞书项目"
+  default_prompt: "Use $ielts-reading-synonym-lark to extract IELTS Reading synonym substitutions and append them to my Lark project document."
+policy:
+  allow_implicit_invocation: true

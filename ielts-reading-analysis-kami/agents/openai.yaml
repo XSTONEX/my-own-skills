@@ -1,0 +1,5 @@
+interface:
+  display_name: "IELTS Reading Analysis HTML"
+  short_description: "IELTS analysis as Markdown and HTML"
+  brand_color: "#1B365D"
+  default_prompt: "Use $ielts-reading-analysis-kami to analyze this IELTS Reading passage and save the result as Markdown and HTML."

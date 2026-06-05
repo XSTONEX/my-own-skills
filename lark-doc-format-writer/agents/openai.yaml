@@ -1,0 +1,6 @@
+interface:
+  display_name: "飞书文档格式写作"
+  short_description: "用飞书富格式优化文档结构与可读性"
+  default_prompt: "Use $lark-doc-format-writer to create a polished Feishu document from my draft."
+policy:
+  allow_implicit_invocation: true

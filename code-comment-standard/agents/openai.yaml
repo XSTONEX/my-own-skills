@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Comment Standard"
+  short_description: "规范中文代码注释、Docstring 和 TODO 写法"
+  default_prompt: "Use $code-comment-standard to rewrite these comments so they explain intent clearly in concise Chinese."
